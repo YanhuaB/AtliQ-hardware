@@ -73,7 +73,17 @@ date time information, market details, product information, and transaction reco
   
   **cost_price:** Cost price of the product.
 
-## Dashboard
-#### 1
-#### 2
-#### 3
+## Power BI Report:
+### Dashboard 1: Key Insight
+![Key_Insight_Dashboard](https://github.com/YanhuaB/AtliQ-hardware/blob/main/PowerBI_Files/dashboards/key_insight.jpg)
+
+The revenue trend was analyzed to provide a comprehensive overview of the company's performance over the years. Utilizing card, slicer functions, and 
+bar charts, the data in the dashboard was made easily accessible. This setup allowed for straightforward examination of revenues and sales amounts by
+year or month, with detailed distribution across different markets and product lines.
+### Dashboard 2: Profit
+![Profit_Dashboard](https://github.com/YanhuaB/AtliQ-hardware/blob/main/PowerBI_Files/dashboards/Profit.jpg)
+For the second dashboard, building upon the insights from the first, the analysis focused on customer revenue contributions. It provided an in-depth 
+examination of the top customers in different cities and their profit margin contributions.
+### Dashboard 3: Performance Insight
+![Performance_Insight_Dashboard](https://github.com/YanhuaB/AtliQ-hardware/blob/main/PowerBI_Files/dashboards/Performance_Insight.jpg)
+For the final dashboard, the focus was on illustrating branch performance across different markets. By analyzing revenue and profit trends in various cities, the dashboard provided valuable insights for branch management.

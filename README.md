@@ -11,7 +11,21 @@ of the time on data processing.
 ## Tools utilized:
 Power BI & MySQL
 
-## Data Set
-sales data of AtliQ hardware
+## Dataset
+Sales data of AtliQ hardware inclused, customers porfiles, date time, markets information, product line  and transaction records.
+- Customers:
+  customer_code
+  custmer_name
+  customer_type
+  
+- Data:
+  
+- Market
+  
+- Information:
+  
+- Product:
+  
+- Transaction:
 
 ## Dashboard

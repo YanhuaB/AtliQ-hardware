@@ -87,3 +87,9 @@ examination of the top customers in different cities and their profit margin con
 ### Dashboard 3: Performance Insight
 ![Performance_Insight_Dashboard](https://github.com/YanhuaB/AtliQ-hardware/blob/main/PowerBI_Files/dashboards/Performance_Insight.jpg)
 For the final dashboard, the focus was on illustrating branch performance across different markets. By analyzing revenue and profit trends in various cities, the dashboard provided valuable insights for branch management.
+## Conclusion:
+In conclusion, the three-perspective dashboard I developed has significantly improved data accessibility and supported robust data-driven decision-making processes. By providing detailed insights into revenue trends, customer behavior, and market dynamics, the dashboard has empowered stakeholders across the organization. 
+
+Through rigorous data cleaning processes including deduplication, currency normalization, and removal of low-quality data, we ensured the accuracy and reliability of our analyses. Integration of a MySQL database with Power BI facilitated efficient data modeling and ETL operations, resulting in substantial time savings.
+
+The dashboard not only enhanced accessibility for non-technical stakeholders but also enabled clear and actionable insights through intuitive visualizations. By mapping key relationships among our datasets, we have enabled comprehensive analysis of sales performance, customer contributions by city, and branch effectiveness across diverse markets. This holistic approach ensures that our insights are not only accessible but also impactful in driving strategic decisions and optimizing business outcomes.

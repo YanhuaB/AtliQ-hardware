@@ -14,9 +14,13 @@ Power BI & MySQL
 ## Dataset
 Sales data of AtliQ hardware inclused, customers porfiles, date time, markets information, product line  and transaction records.
 - Customers:
-  customer_code
-  custmer_name
-  customer_type
+  
+  **customer_code:** Uniqle customer identifier
+  
+  **custmer_name:** Name of the customers
+  
+  **customer_type:** 
+  
   
 - Data:
   
